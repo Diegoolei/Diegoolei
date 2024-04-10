@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegoolei" alt="diegoolei" /></a> </p>
 
-- 🔭 I’m currently working on **Area recognition of objects in satellite images**
+- 🔭 I’m currently working on **Fortran 77 Cloud simulation reengineering with python **
 
 - 📫 How to reach me **diegooleiarz@hotmail.com**
 
